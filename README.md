@@ -1,2 +1,2 @@
 # course-projects
-Projects that I had submitted for the completion of coursework
+Jupyter Notebooks for the projects that I had submitted for the completion of coursework
