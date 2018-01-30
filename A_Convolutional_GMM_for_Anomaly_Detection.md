@@ -423,5 +423,5 @@ index = np.argmax(np.array(final_valid).reshape(-1,1))
 print("AUC for best model on validation:{}".format(np.array(final).reshape(-1,1)[index]))
 ```
 
-    AUC for best model on validation:[ 0.65012768]
+    Test AUC for best model on validation:[ 0.65012768]
 
